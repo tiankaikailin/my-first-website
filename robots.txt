@@ -1,0 +1,5 @@
+# robots.txt
+User-agent: *
+Disallow: 
+Disallow: /file.html
+Sitemap: https://tiankaikailin.github.io/my-first-website
